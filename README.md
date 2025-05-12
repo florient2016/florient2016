@@ -30,10 +30,8 @@ I'm a passionate **DevOps | Cloud | Platform Engineer** who thrives on solving c
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=florient2016&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=florient2016&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=florient2016&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
