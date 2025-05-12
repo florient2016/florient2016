@@ -42,7 +42,7 @@ I'm a passionate **DevOps | Cloud | Platform Engineer** who thrives on solving c
 
 - 📧 Email: [support@florientdogbe.me]
 - 🔗 LinkedIn: [linkedin.com/in/Florient](https://www.linkedin.com/in/komlan-florient-dogbe-redhat-architect/) 
-- 🌐 Portfolio: [</portfolio>](https://florientdogbe.me) 🖥️
+- 🌐 Portfolio: [florientdogbe.me](https://florientdogbe.me) 🖥️
 
 Feel free to ping me for collabs, questions, or just a friendly chat! 😄☕
 
