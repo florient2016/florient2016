@@ -10,15 +10,15 @@ I'm a passionate **DevOps | Cloud | Platform Engineer** who thrives on solving c
 
 🛠️ Skills & Technologies ⚙️
 
-Languages 💻: Python 🐍, JavaScript 🌐, Java ☕, C 🔧, Bash 🖥️
-Pipeline 🚀: Jenkins ⚙️, Tekton 🔄, GitLab CI 🛠️
-Cloud ☁️: Amazon Web Services 🌩️, Microsoft Azure 🔵
-Orchestration 🎮: OpenShift 🚪, Kubernetes ⚓
-Tools 🧰: Git 🗃️, Docker 🐳, VS Code 📝
-Databases 🗄️: MySQL 📊, MongoDB 🍃, PostgreSQL 🐘
-Other 🌟: LLM 🤖, Agile Methodologies 🔄
-📚 Always Learning 📖: Kubernetes ⚓, Terraform 🏗️, GitOps 🔄, Platform-as-a-Service 🛡️
-🎯 Goal 🏆: Build scalable, secure, and maintainable platforms for modern teams 🌍
+- Languages 💻: Python 🐍, JavaScript 🌐, Java ☕, C 🔧, Bash 🖥️
+- Pipeline 🚀: Jenkins ⚙️, Tekton 🔄, GitLab CI 🛠️
+- Cloud ☁️: Amazon Web Services 🌩️, Microsoft Azure 🔵
+- Orchestration 🎮: OpenShift 🚪, Kubernetes ⚓
+- Tools 🧰: Git 🗃️, Docker 🐳, VS Code 📝
+- Databases 🗄️: MySQL 📊, MongoDB 🍃, PostgreSQL 🐘
+- Other 🌟: LLM 🤖, Agile Methodologies 🔄
+- 📚 Always Learning 📖: Kubernetes ⚓, Terraform 🏗️, GitOps 🔄, Platform-as-a-Service 🛡️
+- 🎯 Goal 🏆: Build scalable, secure, and maintainable platforms for modern teams 🌍
 
 ---
 
@@ -40,9 +40,9 @@ Other 🌟: LLM 🤖, Agile Methodologies 🔄
 
 ## 🤝 Let’s Connect
 
-📧 Email: [support@florientdogbe.me]
-🔗 LinkedIn: [linkedin.com/in/Florient](https://www.linkedin.com/in/komlan-florient-dogbe-redhat-architect/) 🌐
-🌐 Portfolio: [</portfolio>](https://florientdogbe.me) 🖥️
+- 📧 Email: [support@florientdogbe.me]
+- 🔗 LinkedIn: [linkedin.com/in/Florient](https://www.linkedin.com/in/komlan-florient-dogbe-redhat-architect/) 
+- 🌐 Portfolio: [</portfolio>](https://florientdogbe.me) 🖥️
 
 Feel free to ping me for collabs, questions, or just a friendly chat! 😄☕
 
